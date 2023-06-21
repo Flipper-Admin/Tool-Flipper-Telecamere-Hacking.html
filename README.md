@@ -1,4 +1,5 @@
-# Tool-Flipper-Telecamere-Hacking.html ![flipperzero-flipper-zero-animations](https://github.com/Flipper-Admin/Tool-Flipper-Telecamere-Hacking.html/assets/135635739/8a87d49c-072a-4ece-9a88-17a88246b3b4)
+<h2>Tool-Flipper-Telecamere-Hacking.html <h2>Hi, I'm Gr3n0xX! <img img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+![flipperzero-flipper-zero-animations](https://github.com/Flipper-Admin/Tool-Flipper-Telecamere-Hacking.html/assets/135635739/8a87d49c-072a-4ece-9a88-17a88246b3b4)
 
 Consiglio la maggiooarte delle telecamere che non sono inserite consigliamo di non cercarle illegalmente su siti o
 sul browser Tor vi spiegiamo il motivi qui sotto con un breve avviso di sicurezza: ![tor_imaggine](https://github.com/Flipper-Admin/Tool-Flipper-Telecamere-Hacking.html/assets/135635739/62e311f2-f5d9-48b8-8acc-ca07d9d58bbf)
@@ -14,3 +15,13 @@ Pertanto, consigliamo vivamente di evitare l'utilizzo di tali programmi, a meno 
 
 Telecamere prese dal Tool Cam-Hackers di AngelSecurityTeam :
 ![1_99R6bw-Bt1C_jwWZQoxkBA](https://github.com/Flipper-Admin/Tool-Flipper-Telecamere-Hacking.html/assets/135635739/3f8b767e-2bac-4577-b8e7-41757c5383a8)
+
+#Installazzione
+
+git clone https://github.com/Flipper-Admin/Tool-Flipper-Telecamere-Hacking.html
+
+cd Tool-Flipper-Telecamere-Hacking.html
+
+Fare due volte clic sul file html e si avviera automaticamente il sito per creare testi e salvarli
+
+(Per farlo piu semplice insttalare il programma aprire file e andare sulla cartella sotto a "Computer" dove ce il tuo username kali linux o linux e cliccarci sopra premi sul percorso file e scrivere Tool-Flipper-Telecamere-Hacking.html senza eliminare "Username-utente/Tool-Flipper-Telecamere-Hacking.html" efare doppio clic sul file html) 
