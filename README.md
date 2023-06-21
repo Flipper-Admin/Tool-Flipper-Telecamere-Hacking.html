@@ -16,12 +16,12 @@ Pertanto, consigliamo vivamente di evitare l'utilizzo di tali programmi, a meno 
 Telecamere prese dal Tool Cam-Hackers di AngelSecurityTeam :
 ![1_99R6bw-Bt1C_jwWZQoxkBA](https://github.com/Flipper-Admin/Tool-Flipper-Telecamere-Hacking.html/assets/135635739/3f8b767e-2bac-4577-b8e7-41757c5383a8)
 
-#Installazzione
-
+## Installazzione
+'''
 git clone https://github.com/Flipper-Admin/Tool-Flipper-Telecamere-Hacking.html
 
 cd Tool-Flipper-Telecamere-Hacking.html
-
+'''
 Fare due volte clic sul file html e si avviera automaticamente il sito per creare testi e salvarli
 
 (Per farlo piu semplice insttalare il programma aprire file e andare sulla cartella sotto a "Computer" dove ce il tuo username kali linux o linux e cliccarci sopra premi sul percorso file e scrivere Tool-Flipper-Telecamere-Hacking.html senza eliminare "Username-utente/Tool-Flipper-Telecamere-Hacking.html" efare doppio clic sul file html) 
