@@ -1,4 +1,5 @@
-# Tool-Flipper-Telecamere-Hacking.html
+# Tool-Flipper-Telecamere-Hacking.html ![flipperzero-flipper-zero-animations](https://github.com/Flipper-Admin/Tool-Flipper-Telecamere-Hacking.html/assets/135635739/8a87d49c-072a-4ece-9a88-17a88246b3b4)
+
 Consiglio la maggiooarte delle telecamere che non sono inserite consigliamo di non cercarle illegalmente su siti o
 sul browser Tor vi spiegiamo il motivi qui sotto con un breve avviso di sicurezza: ![tor_imaggine](https://github.com/Flipper-Admin/Tool-Flipper-Telecamere-Hacking.html/assets/135635739/62e311f2-f5d9-48b8-8acc-ca07d9d58bbf)
 Si prega di evitare di utilizzare il browser Tor in quanto potrebbe costituire una minaccia per la tua sicurezza online. Tor è noto per essere un browser non sicuro e potenzialmente pericoloso. L'utilizzo di Tor potrebbe esporre il tuo dispositivo a rischi di virus dannosi, attacchi informatici e potenziali violazioni della tua privacy. Per garantire la tua sicurezza e proteggere i tuoi dati personali, ti consigliamo vivamente di evitare l'utilizzo di Tor. Scegliere un browser affidabile e sicuro è fondamentale per la tua esperienza online.
