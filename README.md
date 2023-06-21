@@ -1,4 +1,4 @@
-<h2>Tool-Flipper-Telecamere-Hacking.html <h2>Hi, I'm Gr3n0xX! <img img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2>Tool-Flipper-Telecamere-Hacking.html <img img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 ![flipperzero-flipper-zero-animations](https://github.com/Flipper-Admin/Tool-Flipper-Telecamere-Hacking.html/assets/135635739/8a87d49c-072a-4ece-9a88-17a88246b3b4)
 
 Consiglio la maggiooarte delle telecamere che non sono inserite consigliamo di non cercarle illegalmente su siti o
