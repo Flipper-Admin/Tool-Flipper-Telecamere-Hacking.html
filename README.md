@@ -12,4 +12,4 @@ Inoltre, desideriamo sottolineare che non ci assumiamo alcuna responsabilità pe
 Pertanto, consigliamo vivamente di evitare l'utilizzo di tali programmi, a meno che non si abbiano le necessarie competenze e l'autorizzazione legale per farlo. La protezione della privacy altrui e il rispetto delle leggi sono fondamentali per garantire un utilizzo etico e responsabile della tecnologia.
 
 Telecamere prese dal Tool Cam-Hackers di AngelSecurityTeam :
-![Cam-Hackers](https://www.google.com/search?sxsrf=APwXEdey8AGiGyNQJiNAUXDl489Uzpho5A:1687379619853&q=cam-hackers+github&tbm=isch&sa=X&ved=2ahUKEwi0q972mtX_AhVVQ_EDHXyKAzgQ0pQJegQICBAB&cshid=1687379678407769&biw=952&bih=966&dpr=1#imgrc=LeLFye2KEzYXlM)
+![1_99R6bw-Bt1C_jwWZQoxkBA](https://github.com/Flipper-Admin/Tool-Flipper-Telecamere-Hacking.html/assets/135635739/3f8b767e-2bac-4577-b8e7-41757c5383a8)
