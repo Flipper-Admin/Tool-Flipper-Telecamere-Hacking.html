@@ -19,11 +19,11 @@ Telecamere prese dal Tool Cam-Hackers di AngelSecurityTeam :
 ![1_99R6bw-Bt1C_jwWZQoxkBA](https://github.com/Flipper-Admin/Tool-Flipper-Telecamere-Hacking.html/assets/135635739/3f8b767e-2bac-4577-b8e7-41757c5383a8)
 
 ### Installazzione:
-'''
+
 git clone https://github.com/Flipper-Admin/Tool-Flipper-Telecamere-Hacking.html
 
 cd Tool-Flipper-Telecamere-Hacking.html
-'''
+
 
 Fare due volte clic sul file html e si avviera automaticamente il sito per creare testi e salvarli
 
