@@ -28,3 +28,4 @@ cd Tool-Flipper-Telecamere-Hacking.html
 Fare due volte clic sul file html e si avviera automaticamente il sito per creare testi e salvarli
 
 (Per farlo piu semplice insttalare il programma aprire file e andare sulla cartella sotto a "Computer" dove ce il tuo username kali linux o linux e cliccarci sopra premi sul percorso file e scrivere Tool-Flipper-Telecamere-Hacking.html senza eliminare "Username-utente/Tool-Flipper-Telecamere-Hacking.html" efare doppio clic sul file html) 
+Per maggiori informazioni riguardante al Tool entrate nella cartella README.txt 
